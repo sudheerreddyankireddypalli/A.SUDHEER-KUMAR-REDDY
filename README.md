@@ -1,5 +1,4 @@
-# A.SUDHEER-KUMAR-REDDY
-# 💫 About Me:
+# A.SUDHEER-KUMAR-REDDY # 💫 About Me:
 Hi, I’m A. Sudheer Kumar Reddy — a Data Analyst in the making with a strong foundation in Electronics & Communication Engineering and hands‑on experience in Python, SQL, MySQL, Power BI, and ETL<br><br>📊 Passionate about data analytics, dashboards, and business insights.<br><br>🛠️ Projects include ETL pipelines, multi‑page Power BI dashboards, and e‑commerce analytics.<br><br>🤖 Exploring AI‑powered projects like my voice assistant GIRI.<br><br>🌐 Building a personal portfolio website to showcase my work.
 
 
