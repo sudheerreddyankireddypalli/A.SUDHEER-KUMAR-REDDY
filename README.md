@@ -12,6 +12,9 @@ Hi, I'm Sudheer Kumar Reddy Ankireddypalli 👋<br><br>Business Analyst | Data A
 ![](https://streak-stats.demolab.com/?user=sudheerreddyankireddypalli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudheerreddyankireddypalli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=sudheerreddyankireddypalli&icon=0&color=0)](https://visitcount.itsvg.in)
 
